@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SathyaElectronics]">
+  <parameter name="baseURL" value="https://www.sathya.in/"/>
+  <test name="Test2(failed)" preserve-order="false">
+    <parameter name="baseURL" value="https://www.sathya.in/"/>
+    <classes>
+      <class name="sourceCode.ACModulePayment">
+        <methods>
+          <include name="bMtdGnrlMtd"/>
+          <include name="toCloseBrowser"/>
+          <include name="setUp"/>
+          <include name="paymentProcess" invocation-numbers="0"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

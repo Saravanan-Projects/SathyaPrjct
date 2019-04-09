@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="pc-PC" name="sourceCode.ACModulePayment" tests="1" failures="0" timestamp="5 Apr 2019 12:55:28 GMT" time="19.061" errors="0">
+  <testcase name="paymentProcess" time="11.018" classname="sourceCode.ACModulePayment"/>
+</testsuite>
